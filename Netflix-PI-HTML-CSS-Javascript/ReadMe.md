@@ -1,6 +1,6 @@
 # **Recriação da tela inicial do site da Netflix**
 
-### Diferente do repositório acima esse tem como objetivo a aprendizagem e treinamento de javascript.
+### Esse repositório tem como objetivo a aprendizagem e treinamento de javascript básico.
 
 ### Linguagens utilizadas:
 * html5
